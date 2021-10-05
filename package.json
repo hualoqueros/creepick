@@ -1,0 +1,25 @@
+{
+  "name": "creepick",
+  "version": "1.0.0",
+  "description": "Encrypt Decrypt",
+  "main": "dist/faramis.js",
+  "types": "dist/faramis.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hualoqueros/creepick.git"
+  },
+  "author": "samudra.arenza@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hualoqueros/creepick/issues"
+  },
+  "homepage": "https://github.com/hualoqueros/creepick#readme"
+}
